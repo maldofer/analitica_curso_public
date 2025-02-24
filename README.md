@@ -1,2 +1,8 @@
-# analitica_datos
-Repo publico para el curso de analitica de datos
+# Repo analítica de datos
+Repositorio para el curso de analítica Pontificia Universidad Javeriana 2025-10.
+
+## Changelog 
+
+### 250222 [25-02-22]
+* Numpy y Pandas, series y dataframe.
+
