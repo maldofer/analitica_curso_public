@@ -3,7 +3,10 @@ Repositorio para el curso de analítica Pontificia Universidad Javeriana 2025-10
 
 ## Changelog 
 
-### 250222 [25-02-22]
+### 20250307 [25-03-08]
+* PySpark example read a file and count word frequencies.
+
+### 20250222 [25-02-22]
 * Numpy y Pandas, series y dataframe.
 
 ## Important readings
